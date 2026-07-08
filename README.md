@@ -117,6 +117,17 @@ motto: "Build. Learn. Improve. Repeat. ⚡"
 </div>
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devanshi08-pandey&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="90%" src="https://ghchart.rshah.org/6366F1/Devanshi08-pandey" alt="GitHub Contribution Heatmap" />
+</p>
+
+---
 
 ## 🏅 LeetCode Profile
 
@@ -137,6 +148,7 @@ motto: "Build. Learn. Improve. Repeat. ⚡"
 [![Devanshi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Devanshi08-pandey&theme=tokyo-night&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 </div>
+
 
 ---
 
