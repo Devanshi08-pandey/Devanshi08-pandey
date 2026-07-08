@@ -20,8 +20,10 @@
 <br>
 
 ## 👩‍💻 About Me
-
-<img align="right" width="300" src="https://raw.githubusercontent.com/OhBonneVie/OhBonneVie/master/img/computer.gif">
+ 
+<div align="center">
+<img width="280" src="https://raw.githubusercontent.com/OhBonneVie/OhBonneVie/master/img/computer.gif">
+</div>
 
 ```yaml
 name: Devanshi Pandey
@@ -40,9 +42,7 @@ looking_for: Software Development Internship
 open_to: Open Source | Java Full Stack | AI/ML Collaborations
 motto: "Build. Learn. Improve. Repeat. ⚡"
 ```
-
-<br clear="right"/>
-
+ 
 ---
 
 ## 🌐 Connect With Me
